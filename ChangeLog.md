@@ -2,6 +2,12 @@
 
 All notable changes to DbUnit are documented in this file using the [Keep a CHANGELOG](http://keepachangelog.com/) principles.
 
+## [5.0.0] - 2019-10-16
+
+### Changed
+
+* DbUnit is now compatible with PHPUnit 8.0
+
 ## [4.0.0] - 2018-02-07
 
 ### Removed
