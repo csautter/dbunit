@@ -12,7 +12,7 @@ namespace PHPUnit\DbUnit\DataSet;
 
 use PHPUnit\DbUnit\InvalidArgumentException;
 use RuntimeException;
-use SimpleXmlElement;
+use SimpleXMLElement;
 
 /**
  * The default implementation of a data set.
@@ -25,7 +25,7 @@ abstract class AbstractXmlDataSet extends AbstractDataSet
     protected $tables;
 
     /**
-     * @var SimpleXmlElement
+     * @var SimpleXMLElement
      */
     protected $xmlFileContents;
 
